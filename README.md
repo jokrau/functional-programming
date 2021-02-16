@@ -1,4 +1,4 @@
-[important info](./functional.jpg)
+![important info](./functional.jpg)
 # ID1019 - Programming II
 This is a **course in functional and concurrent programming** given at KTH Royal Institute of Technology. 
 
